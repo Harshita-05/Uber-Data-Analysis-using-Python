@@ -1,0 +1,9 @@
+Download raw data set using this link - https://s3.amazonaws.com/nyc-tlc/misc/uber_nyc_data.csv
+This data set contains 31M entries from the year 2014-2015
+
+
+
+Note:
+The visualization has been performed on the filtered data of one month only
+Download this data for data visualization purpose -  
+https://drive.google.com/file/d/1B8AdZg484g02CyN-8Yp-gnuKVXOM_k6u/view?usp=sharing
